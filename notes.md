@@ -12,7 +12,7 @@ const mirror2 = (item) => {
 }
 ```
 
-essentionally it boils down to
+essentially it boils down to
 
 ```plaintext
 

@@ -1,3 +1,5 @@
+const { tom } = require('./example');
+
 function mirror(item: string): string {
     return item;
 }
@@ -5,3 +7,5 @@ function mirror(item: string): string {
 const mirror2 = (item: string): string => {
     return item;
 }
+
+console.log(tom.name);
